@@ -1,5 +1,6 @@
 # BSides SG 2022 - Internal-Domain-Names
 
+## Finding 1 - CVE-2024-57174: Alphion Routers
 Reference: 
  - https://github.com/BSidesSG/2022
  - https://chenzw.medium.com/internal-domain-names-f1cd2886c654
@@ -7,8 +8,6 @@ Reference:
 Team mate: chenzw.medium.com
 
 Product Link: http://alphion.com
-
-Disclosure: CVE-2024-57174
 
 Description: 
 
